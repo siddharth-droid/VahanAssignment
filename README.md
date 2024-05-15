@@ -1,7 +1,7 @@
 # Vahan Assignment
 
 ## Introduction
-This project is a rudimentary headless CMS with basic CRUD functionality, developed as part of the Vahan Leader program assignment. It allows users to create different entities, perform CRUD operations on them, and stores data in a MySQL database.
+This project is a rudimentary headless CMS with basic CRUD functionality, developed as part of the SDE intern assignment. It allows users to create different entities, perform CRUD operations on them, and stores data in a MySQL database.
 
 ## Installation and Setup
 To run this project locally, follow these steps:
@@ -36,4 +36,4 @@ The frontend development server will start on port 3001.
 - `frontend`: Contains the frontend React.js application code.
 
 ## Credits
-This project was developed as part of the Vahan Leader program assignment.
+This project was developed as part of the SDE intern assignment.
